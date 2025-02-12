@@ -1,1 +1,1 @@
-FROM wpscanteam/wpscan:lastest
+FROM wpscanteam/wpscan:latest
